@@ -1,6 +1,6 @@
 {
   "name": "bup",
-  "version-string": "0.1",
+  "version-string": "0.2",
   "dependencies": [
     "cpr",
     "cpp-base64",
