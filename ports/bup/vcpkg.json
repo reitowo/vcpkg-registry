@@ -4,7 +4,9 @@
   "dependencies": [
     "cpr",
     "cpp-base64",
-    "k1ee"
+    "k1ee",
+    "nlohmann-json",
+    "rhash"
   ],
   "description": "bilibili auto post"
 }
