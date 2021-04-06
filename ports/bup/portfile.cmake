@@ -2,7 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO cnSchwarzer/BilibiliUp
     REF 11bb37bfc096a7480776b9b90c2d5d842c9d7e97
-    SHA512 b50315957a685938ef2abbdea8a64bcd7c2d1e605da46094243dbfea5e6904bfdce6dd4b913060709c9bfb5761c029ccf8ddfa48d6e30abd93386f5f06df0291
+    SHA512 20a3c6d9aab866027ee809dfa4bca5b1476f2f459919be46319a5ca64413efe5c5bde277b1b434ebc6af13d222d959ced178697cef925cb8caf348b2af41efec
     HEAD_REF main
 ) 
 

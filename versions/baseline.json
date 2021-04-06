@@ -1,7 +1,10 @@
 {
     "default": {
         "k1ee": {
-            "baseline": "0.2"
+            "baseline": "0.3"
+        },
+        "bup": {
+            "baseline": "0.1"
         }
     }
 }  
