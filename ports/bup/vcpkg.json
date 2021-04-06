@@ -1,0 +1,10 @@
+{
+  "name": "bup",
+  "version-string": "0.1",
+  "dependencies": [
+    "cpr",
+    "cpp-base64",
+    "k1ee"
+  ],
+  "description": "bilibili auto post"
+}
