@@ -1,1 +1,1 @@
-{"name": "bup", "version-string": "0.2.3", "dependencies": ["cpr", "cpp-base64", "k1ee", "nlohmann-json", "rhash"], "description": "bilibili auto post"}
+{"name": "bup", "version-string": "0.2.4", "dependencies": ["cpr", "cpp-base64", "k1ee", "nlohmann-json", "rhash"], "description": "bilibili auto post"}
