@@ -88,9 +88,9 @@ for port in ports_folder.iterdir():
 
         # Update vcpkg.json
         vcpkg_json = json.loads(vcpkg_json_path.read_text())
-        version = version_parser.Version(vcpkg_json['version-string'])
+        version = version_parser.Version(vcpkg_json['version'])
         version._build_version += 1
-        vcpkg_json['version-string'] = str(version)
+        vcpkg_json['version'] = str(version)
         vcpkg_json_path.write_text(json.dumps(vcpkg_json))
 
         # Update Git
