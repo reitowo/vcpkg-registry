@@ -1,10 +1,10 @@
-# vcpkg-ports
+# vcpkg-reito
 
-k1ee's custom vcpkg ports.
+reito custom vcpkg ports.
 
 ## Usage
 
-Enable `registries` feature flag in vcpkg and write a `vcpkg-configuration.json` file like this in your project's root directory, and you're good to go.
+Enable `registries` feature flag in vcpkg and write a `vcpkg-configuration.json` file（or a `vcpkg-configuration` field in `vcpkg.json`) like this in your project's root directory, and you're good to go.
 
 ```json
 {
@@ -21,3 +21,4 @@ Enable `registries` feature flag in vcpkg and write a `vcpkg-configuration.json`
 ## Thanks
 
 Thanks [Chlorie](https://github.com/Chlorie/vcpkg-ports)
+
