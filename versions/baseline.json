@@ -1,1 +1,16 @@
-{"default": {"k1ee": {"baseline": "0.3.6"}, "bup": {"baseline": "0.2.4"}}}
+{
+  "default": {
+    "bup": {
+      "baseline": "0.2.4",
+      "port-version": 0
+    },
+    "k1ee": {
+      "baseline": "0.3.6",
+      "port-version": 0
+    },
+    "ndi-sdk": {
+      "baseline": "5.5.3",
+      "port-version": 0
+    }
+  }
+}
