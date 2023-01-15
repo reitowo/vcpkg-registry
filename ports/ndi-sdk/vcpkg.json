@@ -1,0 +1,1 @@
+{"$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json", "name": "ndi-sdk", "version-string": "5.5.3", "description": "NewTek NDI SDK", "supports": "windows & !arm & !arm64"}
