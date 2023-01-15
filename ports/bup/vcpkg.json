@@ -1,6 +1,6 @@
 {
   "name": "bup",
-  "version-string": "0.2.4",
+  "version": "0.2.4",
   "description": "bilibili auto post",
   "dependencies": [
     "cpp-base64",
